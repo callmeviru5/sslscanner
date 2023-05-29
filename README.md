@@ -1,5 +1,6 @@
 # sslscanner
 
+Design For kali linux only
 
 An SSL scanner is a tool designed to assess the security of SSL/TLS (Secure Sockets Layer/Transport Layer Security) implementations on web servers, applications, or network devices. SSL/TLS protocols provide secure communication by encrypting data transmitted over the internet, ensuring confidentiality and integrity.
 
