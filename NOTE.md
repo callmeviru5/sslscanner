@@ -9,7 +9,7 @@ To run an SSL scanner tool on Kali Linux, you can follow these step-by-step inst
 
 3. Run the SSL scanner: Once the installation is complete, you can run the SSL scanner to assess SSL/TLS vulnerabilities on a target website. Use the command `sslscan [target_url]`, replacing `[target_url]` with the URL of the website you want to scan. For example:
 
-run 'python3 sslscanner.py'
+RUN  `python3 sslscanner.py`
 
    The SSL scanner will initiate the scanning process and provide a detailed report on the SSL/TLS vulnerabilities detected.
 
